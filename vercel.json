@@ -13,7 +13,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/index.cjs"
+      "dest": "dist/index.cjs"
     }
   ]
 }
